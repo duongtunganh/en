@@ -5,7 +5,7 @@ layout: default
 <div class="post">
   <div class="wv-button-placeholder"></div>
   <div class="post-info">
-    <span>Viết bởi</span>
+    <span>Written by</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
@@ -14,7 +14,7 @@ layout: default
 
     {% if page.date %}
       <br>
-      <span>vào&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <span>at&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
 
@@ -41,7 +41,7 @@ layout: default
     <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-  <a href="#" class="top">Lên đầu trang</a>
+  <a href="#" class="top">Back to top</a>
 </div>
 <script async src="https://widget.websitevoice.com/55_YxBwMIWY7Ijv-ICrJaQ"></script>
 <script>
