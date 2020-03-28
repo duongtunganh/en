@@ -42,7 +42,7 @@ Studies have shown that high school students' depression and suicidal risk incre
 
 Young people, face up, focus on what's in front of you rather than looking down on your phone screen. Do not become increasingly stupid with a smartphone. Traveling, sightseeing, dating, take care of each other, work, please complete the mission ... Although we have two hands, I believe you cannot hold a mobile phone and the hands of others at the same time.
 
-Sources from books: 101 things schools have never taught you
+Sources from books: 101 things schools have never taught you  
 Translate: Tùng Anh
 
 
