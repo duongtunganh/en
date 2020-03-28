@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Xin chào thế giới"
+title:  "Hello World"
 author: "Tùng Anh"
 comments: true
 categories:
 - home
 ---
 
-Đây là bài viết đầu tiên trên blog của tôi!
+This is the first post on my blog!
 
-Sau một hồi dày vò tìm hiểu về lập trình web đến đau cả đầu và bỏ ra cả ngày để stackoverflow-ing, cuối cùng thì mình cũng có một blog riêng chạy thành công bằng Jekyll và có hẳn một tên miền .space rất là oai. Cảm ơn Tale vì đã tạo ra giao diện tuyệt vời này.
+After a period of tormented learning about web programming to headache and spend all day to stackoverflow-ing, I finally have a separate blog running successfully by Jekyll and has a very majestic .space domain name. . Thanks Tale for creating this great interface.
 
-Blog này được tạo ra với mục đích là để cải thiện kĩ năng viết của mình và tránh việc lười biếng mọi lúc mọi nơi. Mình sẽ cố gắng viết ngẫu hứng về những thứ mình đang tìm hiểu và cuộc sống ở đây.
+This blog was created with the purpose of improving your writing skills and avoiding being lazy anytime and anywhere. I will try to write improvised about what I am learning and life here.
