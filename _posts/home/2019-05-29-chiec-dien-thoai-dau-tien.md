@@ -1,5 +1,5 @@
 ---
-title: Chiếc điện thoại đầu tiên mình sở hữu...
+title: The first phone I owned ...
 date: 2019-05-29 00:00:00 Z
 comments: true
 layout: post
@@ -7,26 +7,28 @@ categories:
 - home
 ---
 
-<p class="lead">Mình còn nhớ Wiko Rainbow Lite là chiếc sờ-mát-phôn đầu tiên của mình mua từ hồi lớp 7.</p>
+<p class="lead">
+I remember Wiko Rainbow Lite was my first touchpad I bought in 7th grade.</p>
 
 ![Wiko](/img/wiko.jpg "Điện thoại Wiko Rainbow Lite")
 
- Wiko là thương hiệu điện thoại của Pháp mới nổi ở nước ta thời 2015, nổi tiếng vì có mức giá rẻ mà vẫn giữ được cấu hình ở mức ổn. Nó thuộc dòng sản phẩm rẻ tiền, rẻ nhất trong số những chiếc máy trong gian hàng của Thế giới di động, với giá 1.999.000đ. Tất nhiên, giờ với giá tiền đó bạn có thể mua được hàng tá những chiếc điện thoại Trung Quốc với thiết kế tai thỏ, màn hình giọt nước,... lại có cấu hình mạnh, camera tốt, vân vân.
+Wiko is a French phone brand emerging in our country in 2015, famous for its cheap price and still maintaining a good configuration. It belongs to the cheapest and cheapest product line among the mobile phones in the Mobile World's booth, at a price of VND 1,999,000. Of course, now for that price you can buy dozens of Chinese phones with rabbit ears, waterdrop screens, ... powerful configurations, good cameras, and so on.
 
-Ở thời điểm đó mình khá là ghét iPhone nói chung và IOS nói riêng vì mình vẫn là một Android Fan và mình bị ảnh hưởng khá nhiều bởi những máy Android mà bố mẹ mình sử dụng. Mẹ mình dùng Samsung Galaxy Note 3 đến giờ và bố mình thời đó dùng Sony Xperia J. Tất nhiên, cả hai đều chạy Android và mình có thể trải nghiệm và vọc vạch nó. Thời đó mình thích thanh điều hướng của Android hơn là iPhone vì thanh điều hướng của nó rất tiện, có tới 3 nút bấm để điều hướng như Quay lại, Màn hình chính, Menu, không như iPhone chỉ có mỗi một nút Màn hình chính khá là bất tiện??. Vì vậy nên mình mới quyết định mua Wiko mới hơn là mua iPhone cũ với tầm tiền đó. Tuy nhiên đến mãi sau này khi có trên tay một chiếc iPhone, mình mới thấy một nút có lẽ là quá đủ đối với mình, thao tác vuốt sang phải để quay lại có khi còn nhanh hơn là bấm nút quay lại trên Android. Nhưng hãy để chuyện so sánh Android và IOS sang một bài viết khác sau này.
+At that time I hated the iPhone in general and the iOS in particular because I was still an Android Fan and I was influenced by the Android devices my parents used. My mother has used the Samsung Galaxy Note 3 so far and my father at that time used Sony Xperia J. Of course, both were running Android and I could experience and scratch it. At that time, I liked the navigation bar of Android more than the iPhone because its navigation bar was very convenient, with up to 3 buttons to navigate such as Back, Home screen, Menu, unlike iPhone with only one button. quite inconvenient ??. That's why I decided to buy a new Wiko rather than an old iPhone with that money. However, it was not until later when I had an iPhone that I saw a button is probably more than enough for me, swiping right to return is sometimes faster than pressing the back button on Android. But let's compare Android and IOS to another article later.
 
-Quay trở lại với chiếc điện thoại Wiko. Thời đó có lẽ mình là những người trẻ sớm tiếp cận với điện thoại vì khi mua nó ở Thế giới di động, chị nhân viên đã khen mình sướng vì đã được dùng điện thoại sớm (He he he, cũng là vì mình đã quyết tâm xin mẹ mua cho đến cùng, mặc kệ những lời cảnh báo của bố). Theo như những thông số ở trên mạng thì điện thoại này có RAM 1GB, sử dụng con chip MediaTek MT6582, Camera 10MP Sau 5MP trước, bộ nhớ trong 16GB, có thể mở rộng thẻ nhớ SD lên đến 64GB, tấm nền IPS 5 inch. Tuy nhiên, ấn tượng đầu tiên khi mình cầm trên tay sản phẩm này khi chị nhân viên khui hộp ra đó chính là trông nó to hơn mình nghĩ vì giá nó khá rẻ.
+Back to the Wiko phone. At that time, I was probably a young person who had an early access to the phone because when I bought it in Mobile World, the employee praised me for being able to use the phone early (He he he, also because I decided please ask to buy it until the end, ignoring dad's warnings). According to the specifications on the network, this phone has 1GB RAM, using MediaTek MT6582 chip, 10MP Camera After 5MP front, 16GB internal memory, expandable SD memory card up to 64GB, 5 inch IPS panel . However, the first impression when I held this product in hand when the staff opened it was that it looked bigger than I thought because the price was quite cheap.
 
-Nhược điểm của con này thì max nhiều. Đến giờ đã là 3 năm kể từ ngày mình mua máy mà nó vẫn hoạt động được và mình đã đem cho thằng bạn cùng lớp mình.  
-##### Và sau đây là những trải nghiệm chân thật của mình về sản phẩm này:
-* Cấu hình cùi bắp, lướt Facebook cũng bị giật lag
-* Pin chai khá nhiều do 3 năm sử dụng. Mình ước chừng chỉ dùng được 1,5 tiếng nếu lướt web bình thường
-* Màn hình bị rỗ vì điểm ảnh thấp, cộng thêm quả cảm ứng thì khỏi phải bàn cãi về độ giật và loạn của nó
-* Camera mờ tịt trong điều kiện ánh sáng yếu. Tuy nhiên, cam trước góc rộng thì lại đẹp. Mình nghĩ là do góc nó rộng nên ánh sáng thu được nhiều &rarr; đẹp hơn cam sau
-* Cộng đồng sử dụng trong nước và ngoài nước ít dẫn đến ít tài liệu tự vọc vạch cài Custom ROM Android
-* Phụ kiện như ốp lưng, cường lực cho máy này cực kì hiếm. Màn hình dễ vỡ và xước
-* Độ hoàn thiện kém, máy làm bằng nhựa, vỏ sau có thể tháo rời nên đến bây giờ bong tróc khá nhiều
-* Phần phím điều hướng cảm ứng bị hỏng nên mình bắt buộc phải root máy để bật phím điều hướng ảo trong màn hình
+The downside of this one is a lot. It has been 3 years since I bought the device and it still works and I gave it to my classmate.
 
-Và đó là toàn bộ cảm nghĩ của mình về sản phẩm này. Các bạn cảm thấy thế nào? Đừng quên để lại đôi lời ở phần bình luận cuối bài viết. Cảm ơn các bạn!
+##### And here are my honest experiences about this product:
 
+* Stupid configuration, Facebook surfing is also laggy
+* Bottle battery is pretty much due to 3 years of use. I estimate it can only use 1.5 hours if surfing the web normally
+* The screen is pockmarked because of the low pixel, plus the touch effect, there is no need to argue about its recoil and chaos
+* Camera dim in low light conditions. However, oranges in front of a wide angle are beautiful. I think that due to its wide angle, the light gains a lot of time &rarr; more beautiful than the back
+* The community used at home and abroad has resulted in fewer self-help documentation installing Android ROM
+* Accessories like case cover, toughness for this machine are extremely rare. The screen is fragile and scratched
+* Poor finishing, machine made of plastic, the back cover can be disassembled, so now peeling quite a lot
+* The touch navigation key is broken, so I have to root the device to turn on the virtual navigation key in the screen
+
+And that's all my feeling about this product. How do you feel? Don't forget to leave a few words in the comments at the end of the article. Thank you!
