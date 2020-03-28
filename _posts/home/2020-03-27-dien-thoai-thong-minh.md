@@ -7,7 +7,7 @@ categories:
 ---
 ![Image](/img/27newport-superJumbo.jpg)  
 
-** Imagine, in your hands, a fixed phone instead of a smartphone that almost everyone now has. How will our life change? **
+**Imagine, in your hands, a fixed phone instead of a smartphone that almost everyone now has. How will our life change?**
 
 - Bring a paper map wherever you go instead of GPS.  
 - Camera will be the main tool to capture the beautiful moments in each trip.  
